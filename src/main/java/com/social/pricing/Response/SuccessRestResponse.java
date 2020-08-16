@@ -10,8 +10,8 @@ public class SuccessRestResponse {
 	
 	private LocalDateTime date;
 
-	private String message;
-
 	private Object data;
+	
+	private String message;
 
 }
